@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class AVClub {
+public class FirstWords {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -11,12 +11,7 @@ public class AVClub {
                 break;
             }
             String[] list = ans.split(" ");
-            for (int i = 0; i < list.length; i++) {
-                String word = list[i];
-                if (word.contains("av")) {
-                    System.out.println(word);
-                }
-            }
+            System.out.println(list[0]);
         }
     }
 }
