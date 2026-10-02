@@ -16,7 +16,7 @@ I am actively tracking my progress by checking off each module as I complete the
 - [x] Part 02: Repeating functionality, loops, and methods
 - [x] Part 03: Lists, arrays, strings, and discovering errors
 - [x] Part 04: Introduction to Object-Oriented Programming (Objects and Classes)
-- [ ] Part 05: Object reference variables, primitive variables, and overloading
+- [x] Part 05: Object reference variables, primitive variables, and overloading
 - [ ] Part 06: Separating user interface from application logic
 - [ ] Part 07: Algorithms, linear searching, sorting, and structural design
 
